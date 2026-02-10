@@ -46,10 +46,3 @@ The system typically manages:
 - Cancellation records
 
 ---
-
-## ⚙️ Setup Instructions
-
-### 1. Clone Repository
-```bash
-git clone <repo-url>
-cd irctc-booking-system
